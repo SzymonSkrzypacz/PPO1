@@ -1,1 +1,2 @@
-38293 38293@studenci.pwsz.legnica.edu.pl https://bitbucket.org/SzymonSkrzypacz/ppo1-szymon-skrzypacz Szymon Skrzypacz
+#PPO1
+Podstawy Programowania Obiektowego 1 - laboratorium
